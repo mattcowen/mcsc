@@ -1,1 +1,2 @@
-# mcsc
+# Useful scripts
+
